@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+pillow
+opencv-python-headless
+plotly
+python-dotenv
+pyyaml
+requests
